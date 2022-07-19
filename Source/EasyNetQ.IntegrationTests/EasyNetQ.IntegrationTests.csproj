@@ -24,7 +24,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="docker.dotnet" Version="3.125.4" />
+    <PackageReference Include="docker.dotnet" Version="3.125.10" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="settings.json" />
